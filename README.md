@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-As a junior studying Data Science and Cognitive Science at UC Berkeley, I am interested in the intersection between data, technology, and human cognition, specifically ethical human-computer interaction and data processing. Currently, I am working on polishing my data analysis skills using Python Numpy, Pandas, Matplotlib as well as SQL! 
+As a junior studying Data Science and Cognitive Science at UC Berkeley, I am interested in the intersection between data, technology, and human cognition-- specifically, the fields of ethical human-computer interaction and artificial intelligence for the public good. Currently, I am working on polishing my data analysis skills using Python Numpy, Pandas, Matplotlib as well as SQL! 
 
 A fun fact about me is that I spent all of my childhood in Russia :)
