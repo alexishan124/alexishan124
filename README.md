@@ -14,13 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Welcome!
+
 As a junior studying Data Science and Cognitive Science at UC Berkeley, I am interested in the intersection between data, technology, and human cognition-- specifically, the fields of ethical human-computer interaction and artificial intelligence for the public good. Currently, I am working on polishing my data analysis skills using Python Numpy, Pandas, Matplotlib as well as SQL! 
 
 A fun fact about me is that I spent all of my childhood in Russia :)
  
 I will be using this space to discuss and take note of the things I have learned during my time as an Intern in the Conversation Engineer Team at Soul Machines.
 
-* Basic set-up of a script 
+# Things I have learned :)
+
+## Basic set-up of a script 
 - REPO
  - directory of the same name
   - scripts (directory)
@@ -31,7 +35,7 @@ I will be using this space to discuss and take note of the things I have learned
     - __init__.py
   - data (directory)
 
-* How do Webhooks work?
+## How do Webhooks work?
 An HTTP callback, when triggered at an application/website, collects the relevant data and sends it over to the URL specified via the form of an HTTP request; then the predefined action is performed on that request. 
 
 Fundamentally, API calls work on request-based output mechanisms while webhooks work on event-based output mechanisms. 
@@ -44,7 +48,7 @@ helpful for:
 - customize responses
 - connect 2+ apps so that one event triggers responses across multiple apps at the same time 
 
-* How do DialogFlow Webhook Fulfillments work?
+## How do DialogFlow Webhook Fulfillments work?
 Fulfillments allow for more dynamic responses to intents that have been matched.
 -> each intent has a setting to enable webhook fulfillment
 -> when such an intent is matched, DialogFlow sends a request to your specified webhook service
