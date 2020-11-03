@@ -26,14 +26,14 @@ I will be using this space to discuss and take note of the things I have learned
 
 ## Basic set-up of a script 
 - REPO
- - directory of the same name
-  - scripts (directory)
-    - the_main_script.py
-    - __init__.py
-  - tests (directory)
-    - test_the_main_script.py
-    - __init__.py
-  - data (directory)
+  - directory of the same name
+    - scripts (directory)
+      - the_main_script.py
+      - __init__.py
+    - tests (directory)
+      - test_the_main_script.py
+      - __init__.py
+    - data (directory)
 
 ## How do Webhooks work?
 An HTTP callback, when triggered at an application/website, collects the relevant data and sends it over to the URL specified via the form of an HTTP request; then the predefined action is performed on that request. 
