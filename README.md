@@ -62,6 +62,11 @@ the full overview:
 6. DF sends the response to end-user.
 7. The end-user sees or hears the response. 
 
+## How to allow for multiple personas/responses for a single DialogFlow Agent using In-Line Editor
+Fulfillments can be used with something like AWS lambda functions or with the in-line editor with webhooks to dynamically automate multiple responses/personas without having to create multiple DialogFlow Agents.
+
+Specifically with in-line editors, you can write code in javascript to create specific functions to denote variations in response as well as keep a map of corresponding intent maps and specified functions.
+
 
 
 
