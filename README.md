@@ -72,13 +72,22 @@ Specifically with in-line editors, you can write code in javascript to create sp
 
 ## Machine Learning Taxonomy
 - labeled data
- - supervised learning
-  - regression (for quantitative responses)
-  - classification (for categorical responses)
+  - supervised learning
+    - regression (quantitative responses)
+      - linear regression
+      - multiple linear regression
+      - least squares regression
+      - logistic regression
+    - classification (categorical responses)
+      - binary classification
+      - multiclass classification
 - unlabeled data
- - unsupervised learning
-  - dimensionality reduction (using PCA)
-  - clustering (K-means, agglomerative)
+  - unsupervised learning
+    - dimensionality reduction
+      - Principal Components Analysis
+    - clustering
+      - K-means clustering
+      - agglomerative clustering
 
 
 
