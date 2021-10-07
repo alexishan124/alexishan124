@@ -20,10 +20,6 @@ As a junior studying Data Science and Cognitive Science at UC Berkeley, I am int
 
 A fun fact about me is that I spent all of my childhood in Russia :)
 
-# Things I have learned at Soul Machines:)
-
-I will be using this space to discuss and take note of the things I have learned during my time as an Intern in the Conversation Engineer Team at Soul Machines.
-
 ## Basic set-up of a script 
 - REPO
   - directory of the same name
